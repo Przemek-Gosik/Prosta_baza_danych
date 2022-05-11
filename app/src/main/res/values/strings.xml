@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Phone DB</string>
+    <string name="opis_opcji">Clear all data</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="hello_first_fragment"></string>
+    <string name="next"></string>
+    <string name="previous"></string>
+    <!--String used in second activity-->
+    <string name="napis1">Manufacturer</string>
+    <string name="napis2">Model</string>
+    <string name="napis3">Android version</string>
+    <string name="napis4">Web site</string>
+    <string name="napis5">WEB SITE</string>
+    <string name="napis6">CANCEL</string>
+    <string name="napis7">SAVE</string>
+    <!--String used for form validation-->
+    <string name="manuError">Manufacturer can not be empty!</string>
+    <string name="modelError">Model can not be empty!</string>
+    <string name="andError">Version can not be empty!</string>
+    <string name="webError">Web page can not be empty!</string>
+    <string name="error">Some fields are not correct!</string>
+    <!--String used for Toasts-->
+    <string name="elementRem">Phone has been removed from db</string>
+    <string name="dbclear">Database is now empty</string>
+</resources>
